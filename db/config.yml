@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: family_tree_TDD
+
+test:
+  adapter: postgresql
+  database: family_tree_TDD_test
